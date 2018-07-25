@@ -117,7 +117,6 @@ body, html{
 }
 
 #right{
-    display: inline-block;
     font-family: 'Fjalla One', sans-serif;
     text-align: center;
     letter-spacing: 2px;
@@ -173,3 +172,8 @@ body, html{
 }
 
 /* ------------------------ */
+
+.svg{
+    width: 50%;
+    height: 50%;
+}
